@@ -12,5 +12,5 @@ This project makes the existing codes more concise and organized. The existing c
 While deploying this assignment, I learned a lot about css consolidation. I also learned best practices for HTML semantics and structure.
 
 ## Usage
-https://github.com/Lbryttney/Code-Refactor.git
+https://lbryttney.github.io/Code-Refactor/
 Deployed Screenshot: Assets/Deployed Final Website.png
