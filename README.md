@@ -13,3 +13,5 @@ While deploying this assignment, I learned a lot about css consolidation. I also
 
 ## Usage
 https://github.com/Lbryttney/Code-Refactor.git
+https://github.com/Lbryttney/Code-Refactor/
+Deployed Screenshot: Assets/Deployed Final Website.png
